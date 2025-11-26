@@ -1290,4 +1290,6 @@ input[type="text"] {
   opacity: 0;
 }
 
-/*# sourceMappingURL=style.css.map */
+#fh5co-footer {
+  border-top: 2px solid #e61bb3e6;
+}
